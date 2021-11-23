@@ -1,6 +1,6 @@
 # Getting Started with savith12321/React-Starter-Template
 
-## run `yarn` to install dependencies
+## run `yarn install` to install dependencies
 
 ## Available Scripts
 
