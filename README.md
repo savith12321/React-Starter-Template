@@ -1,6 +1,6 @@
 # Getting Started with savith12321/React-Starter-Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## run `yarn` to install dependencies
 
 ## Available Scripts
 
